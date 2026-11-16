@@ -21,7 +21,7 @@ Predicting the nightly price of Airbnb listings in Nairobi with **LASSO regressi
 - Listings in **Westlands are about 48% more expensive** than similar listings in South-West Nairobi. Listings in **Kilimani are about 24% more expensive**. Listings in the East, North and CBD are 22–31% cheaper.
 - Availability, review counts, minimum nights and superhost status have **little effect** on price.
 
-![RMSE comparison](images/rmse_comparison.png)
+![RMSE comparison](rmse_comparison.png)
 
 ---
 
